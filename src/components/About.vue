@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
+    <h1>This is Ethan's skills page</h1>
+    <p>This shows Ethan's skills.  Skills can be added or deleted.</p>
   </div>
 </template>
